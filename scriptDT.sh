@@ -27,6 +27,7 @@ nvm use v0.10.12
 sudo npm install -g jshint
 npm install cheerio
 npm install commander
+npm install express
 
 # Install rlwrap to provide libreadline features with node                                                               
 # See: http://nodejs.org/api/repl.html#repl_repl                                                                         
