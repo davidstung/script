@@ -28,6 +28,7 @@ sudo npm install -g jshint
 npm install cheerio
 npm install commander
 npm install express
+npm install morgan
 
 # Install rlwrap to provide libreadline features with node                                                               
 # See: http://nodejs.org/api/repl.html#repl_repl                                                                         
